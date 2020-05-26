@@ -1,0 +1,6 @@
+waitNotify\Parcheggio.class
+waitNotify\Auto.class
+waitNotify\Test.class
+Semaphore\Parcheggio.class
+Semaphore\Test.class
+Semaphore\Auto.class
